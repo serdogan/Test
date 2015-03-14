@@ -1,5 +1,5 @@
-# Baþlýk
+# Baslik
 #### Test deneme
-> comment satýrý
+> comment satiri
 * git init
 	*git komutu
